@@ -1,0 +1,33 @@
+{
+    "listaProductos":[
+        {
+          "titulo": "Smartwatch",
+          "imagen": "https://www.lapolar.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8eb48b6e/images/large/3CC23709171.jpg?sw=1200&sh=1200&sm=fit",
+          "descripcion":"Reloj Xiaomi Fit 7",
+          "precio": "40.000",
+          "stock": "1"
+        },
+        {
+            "titulo": "Smartwatch2",
+            "imagen": "https://www.lapolar.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8eb48b6e/images/large/3CC23709171.jpg?sw=1200&sh=1200&sm=fit",
+            "descripcion":"Reloj Xiaomi Fit 7",
+            "precio": "42.000",
+            "stock": "2"
+          },
+          {
+            "titulo": "Smartwatch3",
+            "imagen": "https://www.lapolar.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8eb48b6e/images/large/3CC23709171.jpg?sw=1200&sh=1200&sm=fit",
+            "descripcion":"Reloj Xiaomi Fit 7",
+            "precio": "43.000",
+            "stock": "3"
+          },
+          {
+            "titulo": "Smartwatch4",
+            "imagen": "https://www.lapolar.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8eb48b6e/images/large/3CC23709171.jpg?sw=1200&sh=1200&sm=fit",
+            "descripcion":"Reloj Xiaomi Fit 7",
+            "precio": "44.000",
+            "stock": "4"
+          }
+
+    ]
+}
